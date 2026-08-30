@@ -2,11 +2,6 @@
 
 A medical image classification project that combines **Convolutional Neural Networks (CNNs)** with traditional machine-learning classifiers to classify cervical-cell images from Pap smears as **Normal** or **Abnormal**.
 
-## Authors
-
-- **Samaher S. Alsharif**
-- **Shahd H. Altalhi**
-
 ## Project Overview
 
 Cervical cancer screening commonly relies on visual examination of Pap-smear cytology images. Manual screening can be time-consuming and is affected by variability in interpretation. This project investigates an automated image-classification pipeline using deep learning for feature extraction and machine learning for final classification.
